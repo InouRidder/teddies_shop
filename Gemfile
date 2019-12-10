@@ -18,6 +18,8 @@ gem 'webpacker'
 
 gem 'money-rails'
 gem 'stripe'
+gem 'stripe_event'
+
 
 group :development do
   gem 'web-console', '>= 3.3.0'
